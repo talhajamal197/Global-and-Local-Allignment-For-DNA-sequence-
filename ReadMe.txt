@@ -1,0 +1,1 @@
+In this project Global and Local Alignment is Implemented by Needleman-Wunsch algorithm which allows DNA sequencing using C++
